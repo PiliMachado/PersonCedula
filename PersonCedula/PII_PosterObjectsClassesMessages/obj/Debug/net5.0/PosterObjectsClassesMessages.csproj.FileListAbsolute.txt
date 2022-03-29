@@ -1,0 +1,16 @@
+C:\Users\mielp\OneDrive\Escritorio\P2 Recurse\PersonCedula\PII_PosterObjectsClassesMessages\bin\Debug\net5.0\PosterObjectsClassesMessages.exe
+C:\Users\mielp\OneDrive\Escritorio\P2 Recurse\PersonCedula\PII_PosterObjectsClassesMessages\bin\Debug\net5.0\PosterObjectsClassesMessages.deps.json
+C:\Users\mielp\OneDrive\Escritorio\P2 Recurse\PersonCedula\PII_PosterObjectsClassesMessages\bin\Debug\net5.0\PosterObjectsClassesMessages.runtimeconfig.json
+C:\Users\mielp\OneDrive\Escritorio\P2 Recurse\PersonCedula\PII_PosterObjectsClassesMessages\bin\Debug\net5.0\PosterObjectsClassesMessages.runtimeconfig.dev.json
+C:\Users\mielp\OneDrive\Escritorio\P2 Recurse\PersonCedula\PII_PosterObjectsClassesMessages\bin\Debug\net5.0\PosterObjectsClassesMessages.dll
+C:\Users\mielp\OneDrive\Escritorio\P2 Recurse\PersonCedula\PII_PosterObjectsClassesMessages\bin\Debug\net5.0\ref\PosterObjectsClassesMessages.dll
+C:\Users\mielp\OneDrive\Escritorio\P2 Recurse\PersonCedula\PII_PosterObjectsClassesMessages\bin\Debug\net5.0\PosterObjectsClassesMessages.pdb
+C:\Users\mielp\OneDrive\Escritorio\P2 Recurse\PersonCedula\PII_PosterObjectsClassesMessages\obj\Debug\net5.0\PosterObjectsClassesMessages.csproj.AssemblyReference.cache
+C:\Users\mielp\OneDrive\Escritorio\P2 Recurse\PersonCedula\PII_PosterObjectsClassesMessages\obj\Debug\net5.0\PosterObjectsClassesMessages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mielp\OneDrive\Escritorio\P2 Recurse\PersonCedula\PII_PosterObjectsClassesMessages\obj\Debug\net5.0\PosterObjectsClassesMessages.AssemblyInfoInputs.cache
+C:\Users\mielp\OneDrive\Escritorio\P2 Recurse\PersonCedula\PII_PosterObjectsClassesMessages\obj\Debug\net5.0\PosterObjectsClassesMessages.AssemblyInfo.cs
+C:\Users\mielp\OneDrive\Escritorio\P2 Recurse\PersonCedula\PII_PosterObjectsClassesMessages\obj\Debug\net5.0\PosterObjectsClassesMessages.csproj.CoreCompileInputs.cache
+C:\Users\mielp\OneDrive\Escritorio\P2 Recurse\PersonCedula\PII_PosterObjectsClassesMessages\obj\Debug\net5.0\PosterObjectsClassesMessages.dll
+C:\Users\mielp\OneDrive\Escritorio\P2 Recurse\PersonCedula\PII_PosterObjectsClassesMessages\obj\Debug\net5.0\ref\PosterObjectsClassesMessages.dll
+C:\Users\mielp\OneDrive\Escritorio\P2 Recurse\PersonCedula\PII_PosterObjectsClassesMessages\obj\Debug\net5.0\PosterObjectsClassesMessages.pdb
+C:\Users\mielp\OneDrive\Escritorio\P2 Recurse\PersonCedula\PII_PosterObjectsClassesMessages\obj\Debug\net5.0\PosterObjectsClassesMessages.genruntimeconfig.cache

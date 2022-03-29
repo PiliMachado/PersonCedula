@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mielp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mielp\\.nuget\\packages"
+    ]
+  }
+}
